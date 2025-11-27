@@ -286,23 +286,6 @@ php -S localhost:8000
 
 ---
 
-## 📸 Screenshots
-
-### Customer Interface
-- **Homepage**: Movie carousel and featured listings
-- **Movie Details**: Comprehensive movie information
-- **Seat Selection**: Interactive seat map
-- **Payment Gateway**: Secure checkout process
-- **E-Ticket**: Digital ticket with QR code
-
-### Admin Dashboard
-- **Analytics Dashboard**: Revenue and booking statistics
-- **Movie Management**: CRUD operations for movies
-- **Booking Overview**: Real-time booking monitoring
-- **User Management**: Customer account administration
-
----
-
 ## 🔌 API Endpoints
 
 ### Public APIs
