@@ -5,7 +5,7 @@ A comprehensive web-based movie ticketing platform that enables users to browse 
 **Developer:** Aparup Chowdhury  
 **Technologies:** PHP, MySQL, JavaScript, HTML5, CSS3  
 **Category:** Full-Stack Web Application  
-**Status:** 🟢 Active Development
+**Status:** 🟢 Still in Development
 
 ---
 
@@ -32,11 +32,11 @@ CineFlix is a modern online movie ticketing system designed to streamline the mo
 
 ### Key Highlights
 
-- **Real-time Seat Selection**: Interactive seat map with live availability
-- **Secure Payment Integration**: Multiple payment gateway support
-- **Responsive Design**: Seamless experience across all devices
-- **Admin Dashboard**: Comprehensive management tools for theaters
-- **User Authentication**: Secure login and registration system
+- **Real-time Seat Selection**
+- **Secure Payment Integration**
+- **Responsive Design**
+- **Admin Dashboard**
+- **User Authentication**
 
 ---
 
@@ -405,8 +405,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aparup Chowdhury**
 - GitHub: [@aparup-chy](https://github.com/aparup-chy)
-- Email: [contact@email.com]
-- Portfolio: [Your Portfolio]
+- Email: [aparupchowdhury79@gmail.com]
 
 ---
 
@@ -416,15 +415,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - jQuery community for excellent documentation
 - Font Awesome for icons
 - All contributors and testers
-
----
-
-## 📞 Support
-
-For support, please:
-- Open an issue on GitHub
-- Email at support@cineflix.com
-- Check the [Wiki](https://github.com/aparup-chy/CineFlix/wiki) for FAQs
 
 ---
 
